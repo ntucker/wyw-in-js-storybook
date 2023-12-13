@@ -1,0 +1,20 @@
+{
+  "@anansi/generator-js": {
+    "githubOrg": "",
+    "rootPath": "src",
+    "assetPath": "dist",
+    "serverPath": "dist-server",
+    "appName": "temp",
+    "githubDomain": "github.com",
+    "testing": false,
+    "features": [
+      "storybook"
+    ],
+    "badges": "",
+    "spa": true,
+    "storybook": true,
+    "webpack": true,
+    "style": "linaria",
+    "devssl": false
+  }
+}
